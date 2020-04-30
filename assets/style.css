@@ -1,7 +1,7 @@
 .grid-container1 {
     display: grid;
     grid-template-columns: auto;
-    background-color: navy;
+    background-color: #3d6ad6;
     height: 2em;
 }
 .grid-container2 {
